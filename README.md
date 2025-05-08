@@ -97,12 +97,6 @@ make clean
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots of your generated HTML if available)*
-
----
-
 ## 👥 Contributors
 
 - **Yuesong Huang** (yhu116@u.rochester.edu)
